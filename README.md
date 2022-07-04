@@ -1,7 +1,7 @@
-Introduce
+#Introduce
 Đây là đồ án kết thúc học phần CN .NET
 
-Screenshot
+#Screenshot
 Màn hình đăng nhập
 
 Màn hình đăng nhập
