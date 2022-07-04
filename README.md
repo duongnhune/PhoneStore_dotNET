@@ -1,6 +1,6 @@
 # Introduce
 ## Đây là đồ án kết thúc học phần CN .NET
-### ![Uploading image.png…]()
+[![Uploading image.png…]()](https://user-images.githubusercontent.com/59080990/146531258-75ad4fe0-f57c-450c-aec1-d8ac82f74d49.png)
 # Screenshot
 ## Màn hình đăng nhập
 
